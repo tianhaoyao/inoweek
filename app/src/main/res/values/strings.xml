@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="title_activity_user_area">UserAreaActivity</string>
+</resources>
